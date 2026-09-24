@@ -6,7 +6,6 @@
 // @author       You
 // @grant        none
 // @run-at       document-end
-注意 本项目仅供学习研究使用
 // ==/UserScript==
 
 (function () {
